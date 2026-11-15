@@ -1,4 +1,4 @@
-README.md
+
 
 ## Proyecto de Procesamiento de Imágenes
 ## Descripción
