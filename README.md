@@ -12,6 +12,7 @@ Proyecto desarrollado en Python para la manipulación, procesamiento y análisis
 - NumPy
 - Matplotlib
 - OpenCV
+- OS
   
 ## Funcionalidades
 
