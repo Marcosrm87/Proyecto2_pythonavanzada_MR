@@ -38,3 +38,30 @@ fotoapp.py: contiene las funciones de procesamiento de imágenes, el menú inter
 fotoapp_testdev.ipynb: importa y ejecuta la función main() para iniciar la aplicación.
 
 Las imágenes utilizadas y las imágenes generadas se organizan en sus respectivas carpetas.
+Instalación y ejecución
+
+## Requisitos previos
+
+Es necesario tener Python instalado y contar con las siguientes bibliotecas:
+
+- Pillow
+
+- NumPy
+
+- Matplotlib
+
+- OpenCV
+
+## Instalación de dependencias
+
+Las bibliotecas pueden instalarse mediante el siguiente comando:
+
+  pip install pillow numpy matplotlib opencv-python
+
+## Ejecución
+
+La aplicación se ejecuta desde el notebook Jupyter:
+
+fotoapp_testdev.ipynb
+
+Para utilizarla, abrir el archivo en Jupyter Notebook o Visual Studio Code y ejecutar las celdas en orden.
