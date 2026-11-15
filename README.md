@@ -38,7 +38,8 @@ fotoapp.py: contiene las funciones de procesamiento de imágenes, el menú inter
 fotoapp_testdev.ipynb: importa y ejecuta la función main() para iniciar la aplicación.
 
 Las imágenes utilizadas y las imágenes generadas se organizan en sus respectivas carpetas.
-Instalación y ejecución
+
+## Instalación y ejecución
 
 ## Requisitos previos
 
