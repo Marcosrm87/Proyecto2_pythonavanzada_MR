@@ -28,3 +28,13 @@ La aplicación permite realizar distintas operaciones de procesamiento de imáge
 - Selección de imágenes: posibilidad de cambiar la imagen sobre la que se realizan las operaciones.
 
 - Menú interactivo: navegación por las distintas funcionalidades mediante opciones seleccionables.
+
+## Estructura del proyecto
+
+El proyecto se organiza en los siguientes archivos principales:
+
+fotoapp.py: contiene las funciones de procesamiento de imágenes, el menú interactivo y la función principal main().
+
+fotoapp_testdev.ipynb: importa y ejecuta la función main() para iniciar la aplicación.
+
+Las imágenes utilizadas y las imágenes generadas se organizan en sus respectivas carpetas.
