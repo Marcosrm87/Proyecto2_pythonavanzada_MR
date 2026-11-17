@@ -68,5 +68,8 @@ fotoapp_testdev.ipynb
 
 Para utilizarla, abrir el archivo en Jupyter Notebook o Visual Studio Code y ejecutar las celdas en orden.
 
+## Diagrama de flujo menú TODOAPP
+
+
 <img width="1536" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/09327d27-19ff-4d43-9541-387a59fb410b" />
 
